@@ -1,0 +1,8 @@
+.firebase/
+.netlify/
+dist/
+chrome-check-profile/
+node_modules/
+.DS_Store
+Thumbs.db
+npm-debug.log*
