@@ -5,7 +5,7 @@ const products = [
     type: "Hmt",
     image: "RICE/HMT/Hmt RAW.jpg",
     cutout: "RICE_CUTOUTS_WEBP_V4/HMT__HMT_RAW.webp?v=top-design-4",
-    description: "Premium Hmt rice with a clean polished presentation for daily and dealer supply.",
+    decription: "Premium Hmt rice with a clean polished presentation for daily and dealer supply.",
     grain: "Hmt Rice Old 12+ Months",
     packing: "26 kg bags",
     tone: "#d66d2f",
