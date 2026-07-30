@@ -186,6 +186,11 @@ document.querySelectorAll("[data-footer-family]").forEach((link) => {
   });
 });
 
+const currentYear = document.getElementById("currentYear");
+if (currentYear) {
+  currentYear.textContent = new Date().getFullYear();
+}
+
 document.querySelectorAll("[data-product]").forEach((button) => {
   button.addEventListener("click", () => {
     const product = products.find((item) => item.name === button.dataset.product);

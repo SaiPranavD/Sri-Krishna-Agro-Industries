@@ -903,6 +903,22 @@ textarea {
   color: var(--gold);
 }
 
+.footer-copyright {
+  margin: 28px auto 0;
+  padding-top: 18px;
+  border-top: 1px solid rgba(249, 239, 215, 0.16);
+  color: #dfd0b6;
+  font-size: 0.92rem;
+  text-align: center;
+}
+
+.footer-copyright span {
+  display: inline;
+  margin: 0;
+  color: inherit;
+  line-height: inherit;
+}
+
 .reveal {
   opacity: 1;
   transform: translateY(0);
